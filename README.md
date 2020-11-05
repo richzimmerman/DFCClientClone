@@ -1,6 +1,6 @@
 # DFC Client Clone
 
-This was a custom client I wrote when I worked on the "ProjectDF" project, which was a community driven reboot of an old
+This was a custom client I wrote when I worked on the "ProjectDF" project (renamed to "Olmran"), which was a community driven reboot of an old
 MUD (Multi-User Dungeon), [Darkness Falls: The Crusade](https://en.wikipedia.org/wiki/Darkness_Falls:_The_Crusade)
 . It was still very much a work in progress when I left the project, 
 but was (and I 
