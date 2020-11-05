@@ -9,7 +9,7 @@ believe still is) being used by the players participating in the on-going develo
 The artwork was used from the original game which was abandoned many years ago, and meant to be used as filler (and not
 very serious) until we had our own custom artwork, so all credit goes to the original artists from the game.
 
-A couple nerdy things I did that I found to be kind of interesting:
+A couple nerdy things I did/learned that I found to be kind of interesting:
  - I used [GMCP protocol](https://www.gammon.com.au/gmcp) slightly differently than intended. Since I also helped with
  development on the server side, I was able to implement GMCP messages from the server in specific places and set up
  a "handler" style system for processing GMCP messages from the server to trigger UI element. For example, if a player
